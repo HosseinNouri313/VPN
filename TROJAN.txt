@@ -6,6 +6,4 @@ trojan://4b29418c-f1fa-42b5-96ad-5eadd7a2318f@us2.microsoft-orgwly.vip:12074?typ
 trojan://4b29418c-f1fa-42b5-96ad-5eadd7a2318f@br1.microsoft-orgwly.vip:10260?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%A7%F0%9F%87%B71
 trojan://4b29418c-f1fa-42b5-96ad-5eadd7a2318f@gb2.microsoft-orgwly.vip:35621?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%AC%F0%9F%87%A72
 trojan://4b29418c-f1fa-42b5-96ad-5eadd7a2318f@gb3.microsoft-orgwly.vip:35621?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%AC%F0%9F%87%A73
-trojan://4b29418c-f1fa-42b5-96ad-5eadd7a2318f@sg8.microsoft-orgwly.vip:11032?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%B8%F0%9F%87%AC1
-trojan://4b29418c-f1fa-42b5-96ad-5eadd7a2318f@sg9.microsoft-orgwly.vip:443?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%B8%F0%9F%87%AC2
 trojan://4b29418c-f1fa-42b5-96ad-5eadd7a2318f@in2.microsoft-orgwly.vip:32520?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%AE%F0%9F%87%B32
