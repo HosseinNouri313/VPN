@@ -3,3 +3,4 @@ trojan://fd403ca7-6b68-464b-8565-3c7b780e537e@in2.microsoft-orgwly.vip:32524?typ
 trojan://fd403ca7-6b68-464b-8565-3c7b780e537e@fr1.microsoft-orgwly.vip:24660?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%AB%F0%9F%87%B701
 trojan://fd403ca7-6b68-464b-8565-3c7b780e537e@gb2.microsoft-orgwly.vip:35622?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%AC%F0%9F%87%A702
 trojan://fd403ca7-6b68-464b-8565-3c7b780e537e@us4.microsoft-orgwly.vip:12065?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%BA%F0%9F%87%B804
+trojan://fd403ca7-6b68-464b-8565-3c7b780e537e@us4.microsoft-orgwly.vip:12065?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%BA%F0%9F%87%B804
