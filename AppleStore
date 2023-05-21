@@ -1,10 +1,1 @@
-trojan://9405f256-7156-4671-a11a-6f14b0bb5954@br1.microsoft-orgwly.vip:10260?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%A7%F0%9F%87%B701
-trojan://9405f256-7156-4671-a11a-6f14b0bb5954@ca1.microsoft-orgwly.vip:35450?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%A8%F0%9F%87%A601
-trojan://9405f256-7156-4671-a11a-6f14b0bb5954@fr1.microsoft-orgwly.vip:24660?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%AB%F0%9F%87%B701
-trojan://9405f256-7156-4671-a11a-6f14b0bb5954@sg8.microsoft-orgwly.vip:11034?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%B8%F0%9F%87%AC08
-trojan://9405f256-7156-4671-a11a-6f14b0bb5954@in1.microsoft-orgwly.vip:32523?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%AE%F0%9F%87%B301
-trojan://9405f256-7156-4671-a11a-6f14b0bb5954@in2.microsoft-orgwly.vip:32524?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%AE%F0%9F%87%B302
-trojan://9405f256-7156-4671-a11a-6f14b0bb5954@gb1.microsoft-orgwly.vip:443?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%AC%F0%9F%87%A701
-trojan://9405f256-7156-4671-a11a-6f14b0bb5954@gb2.microsoft-orgwly.vip:35622?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%AC%F0%9F%87%A702
-trojan://9405f256-7156-4671-a11a-6f14b0bb5954@us2.microsoft-orgwly.vip:12075?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%BA%F0%9F%87%B802
-trojan://9405f256-7156-4671-a11a-6f14b0bb5954@us4.microsoft-orgwly.vip:12065?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%BA%F0%9F%87%B804
+
