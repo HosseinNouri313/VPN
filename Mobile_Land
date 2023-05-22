@@ -1,9 +1,5 @@
-trojan://53a12baa-690f-461e-81d1-1c17478e407a@br1.microsoft-orgwly.vip:10260?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%A7%F0%9F%87%B701
-trojan://53a12baa-690f-461e-81d1-1c17478e407a@ca1.microsoft-orgwly.vip:35450?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%A8%F0%9F%87%A601
-trojan://53a12baa-690f-461e-81d1-1c17478e407a@fr1.microsoft-orgwly.vip:24660?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%AB%F0%9F%87%B701
-trojan://53a12baa-690f-461e-81d1-1c17478e407a@sg8.microsoft-orgwly.vip:11034?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%B8%F0%9F%87%AC08
-trojan://53a12baa-690f-461e-81d1-1c17478e407a@in2.microsoft-orgwly.vip:32524?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%AE%F0%9F%87%B302
-trojan://53a12baa-690f-461e-81d1-1c17478e407a@gb1.microsoft-orgwly.vip:443?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%AC%F0%9F%87%A701
-trojan://53a12baa-690f-461e-81d1-1c17478e407a@gb2.microsoft-orgwly.vip:35622?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%AC%F0%9F%87%A70
-trojan://53a12baa-690f-461e-81d1-1c17478e407a@us2.microsoft-orgwly.vip:12075?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%BA%F0%9F%87%B802
-trojan://53a12baa-690f-461e-81d1-1c17478e407a@us4.microsoft-orgwly.vip:12065?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%BA%F0%9F%87%B804
+trojan://53a12baa-690f-461e-81d1-1c17478e407a@gb2.microsoft-orgwly.vip:35623?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%AC%F0%9F%87%A702
+trojan://53a12baa-690f-461e-81d1-1c17478e407a@in2.microsoft-orgwly.vip:32527?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%AE%F0%9F%87%B302
+trojan://53a12baa-690f-461e-81d1-1c17478e407a@ie1.microsoft-orgwly.vip:35065?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%AE%F0%9F%87%AA01
+trojan://53a12baa-690f-461e-81d1-1c17478e407a@fr1.microsoft-orgwly.vip:24661?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%AB%F0%9F%87%B701
+trojan://53a12baa-690f-461e-81d1-1c17478e407a@us4.microsoft-orgwly.vip:12066?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%BA%F0%9F%87%B804
