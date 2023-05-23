@@ -1,3 +1,1 @@
-trojan://fd403ca7-6b68-464b-8565-3c7b780e537e@in2.microsoft-orgwly.vip:32527?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%AE%F0%9F%87%B302
-trojan://fd403ca7-6b68-464b-8565-3c7b780e537e@gb2.microsoft-orgwly.vip:35623?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%AC%F0%9F%87%A702
-trojan://fd403ca7-6b68-464b-8565-3c7b780e537e@fr1.microsoft-orgwly.vip:24661?type=tcp&security=tls&headerType=none&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#%F0%9F%87%AB%F0%9F%87%B701
+trojan://e367bc20-f928-11ed-b2cf-1239d0255272@us-trojan.bonds.id:443?type=tcp&security=tls&headerType=none&fp=randomized&uTLS=randomized&allowInsecure=1&allowInsecure=true&sni=discord.com&alpn=h2,http/1.1#US1
