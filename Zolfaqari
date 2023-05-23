@@ -1,1 +1,3 @@
 trojan://e367bc20-f928-11ed-b2cf-1239d0255272@us-trojan.bonds.id:443?type=tcp&security=tls&headerType=none&fp=randomized&uTLS=randomized&allowInsecure=1&allowInsecure=true&sni=discord.com&alpn=h2,http/1.1#US1
+trojan://22e56100-f92a-11ed-89c7-1239d0255272@fr.test3.net:443?type=tcp&security=tls&headerType=none&fp=randomized&uTLS=randomized&allowInsecure=1&allowInsecure=true&sni=discord.com&alpn=h2,http/1.1#FR1
+trojan://20602d70-f92d-11ed-a7bc-1239d0255272@nl.test3.net:443?type=tcp&security=tls&headerType=none&fp=randomized&uTLS=randomized&allowInsecure=1&allowInsecure=true&sni=discord.com&alpn=h2,http/1.1#NL1
