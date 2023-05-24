@@ -1,5 +1,3 @@
 trojan://56603530-f904-11ed-8402-1239d0255272@fr.test3.net:443?type=tcp&security=tls&headerType=none&fp=randomized&uTLS=randomized&allowInsecure=1&allowInsecure=true&sni=discord.com&alpn=h2,http/1.1#FR1
 trojan://e4780c00-f904-11ed-85f1-1239d0255272@us-trojan.bonds.id:443?type=tcp&security=tls&headerType=none&fp=randomized&uTLS=randomized&allowInsecure=1&allowInsecure=true&sni=discord.com&alpn=h2,http/1.1#US1
-trojan://7507ad40-f904-11ed-9a14-1239d0255272@de-1.test3.net:443?type=tcp&security=tls&headerType=none&fp=randomized&uTLS=randomized&allowInsecure=1&allowInsecure=true&sni=discord.com&alpn=h2,http/1.1#DE1
-trojan://2d36cf00-f904-11ed-a1db-1239d0255272@nl.test3.net:443?type=tcp&security=tls&headerType=none&fp=randomized&uTLS=randomized&allowInsecure=1&allowInsecure=true&sni=discord.com&alpn=h2,http/1.1#NL1
-trojan://b97517e7-3cb0-4ed8-a91c-603ef5da1ae4@in2.microsoft-orgwly.vip:32027?type=tcp&security=tls&headerType=none&fp=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#IN1
+trojan://b97517e7-3cb0-4ed8-a91c-603ef5da1ae4@in2.microsoft-orgwly.vip:32028?type=tcp&security=tls&headerType=none&fp=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#IN1
