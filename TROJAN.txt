@@ -1,3 +1,4 @@
 trojan://b97517e7-3cb0-4ed8-a91c-603ef5da1ae4@in2.microsoft-orgwly.vip:32028?type=tcp&security=tls&fp=randomized&fingerprint=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#IN2
 trojan://b97517e7-3cb0-4ed8-a91c-603ef5da1ae4@fr1.microsoft-orgwly.vip:24666?type=tcp&security=tls&fp=randomized&fingerprint=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#FR1
 trojan://b97517e7-3cb0-4ed8-a91c-603ef5da1ae4@gb2.microsoft-orgwly.vip:30625?type=tcp&security=tls&fp=randomized&fingerprint=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#UK2
+trojan://b97517e7-3cb0-4ed8-a91c-603ef5da1ae4@us5.microsoft-orgwly.vip:12089?type=tcp&security=tls&fp=randomized&fingerprint=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#US5
