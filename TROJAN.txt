@@ -1,4 +1,4 @@
-trojan://b97517e7-3cb0-4ed8-a91c-603ef5da1ae4@in2.microsoft-orgwly.vip:32028?type=tcp&security=tls&fp=randomized&fingerprint=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#IN2
-trojan://b97517e7-3cb0-4ed8-a91c-603ef5da1ae4@fr1.microsoft-orgwly.vip:24666?type=tcp&security=tls&fp=randomized&fingerprint=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#FR1
+trojan://b97517e7-3cb0-4ed8-a91c-603ef5da1ae4@in2.microsoft-orgwly.vip:32029?type=tcp&security=tls&fp=randomized&fingerprint=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#IN2
+trojan://b97517e7-3cb0-4ed8-a91c-603ef5da1ae4@fr1.microsoft-orgwly.vip:24667?type=tcp&security=tls&fp=randomized&fingerprint=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#FR1
 trojan://843ffab0-fa07-11ed-972d-1239d0255272@fr.test3.net:443?type=tcp&security=tls&fp=randomized&fingerprint=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=discord.com&alpn=h2,http/1.1#FR2
 trojan://bf798180-fa0a-11ed-8839-1239d0255272@us-trojan.bonds.id:443?type=tcp&security=tls&fp=randomized&fingerprint=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=discord.com&alpn=h2,http/1.1#US1
