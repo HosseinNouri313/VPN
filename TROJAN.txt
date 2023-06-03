@@ -1,4 +1,4 @@
-trojan://7505230a-7054-41dc-bb31-702bf81287f3@in2.microsoft-orgwly.vip:32031?type=tcp&security=tls&fp=randomized&fingerprint=randomized&Utls=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip#IN2
+trojan://7505230a-7054-41dc-bb31-702bf81287f3@in2.microsoft-orgwly.vip:32032?type=tcp&security=tls&fp=randomized&fingerprint=randomized&Utls=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip#IN2
 trojan://7505230a-7054-41dc-bb31-702bf81287f3@us4.microsoft-orgwly.vip:10012?type=tcp&security=tls&fp=randomized&fingerprint=randomized&Utls=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip#US4
 trojan://7505230a-7054-41dc-bb31-702bf81287f3@fr1.microsoft-orgwly.vip:24673?type=tcp&security=tls&fp=randomized&fingerprint=randomized&Utls=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip#FR1
 trojan://7505230a-7054-41dc-bb31-702bf81287f3@gb1.microsoft-orgwly.vip:80?type=tcp&security=tls&fp=randomized&fingerprint=randomized&Utls=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip#UK1
