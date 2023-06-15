@@ -1,5 +1,5 @@
 trojan://33bca263-53d1-4cd9-b052-1488967a319c@ie1.microsoft-orgwly.vip:10065?type=tcp&security=tls&fp=randomized&fingerprint=randomized&Utls=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip#KZ-IE1
 trojan://33bca263-53d1-4cd9-b052-1488967a319c@us2.microsoft-orgwly.vip:444?type=tcp&security=tls&fp=randomized&fingerprint=randomized&Utls=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip#KZ-US2
 trojan://33bca263-53d1-4cd9-b052-1488967a319c@us3.microsoft-orgwly.vip:10075?type=tcp&security=tls&fp=randomized&fingerprint=randomized&Utls=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip#KZ-US3
-trojan://33bca263-53d1-4cd9-b052-1488967a319c@gb1.microsoft-orgwly.vip:10034
-5?type=tcp&security=tls&fp=randomized&fingerprint=randomized&Utls=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip#KZ-GB1
+trojan://33bca263-53d1-4cd9-b052-1488967a319c@gb1.microsoft-orgwly.vip:10045?type=tcp&security=tls&fp=randomized&fingerprint=randomized&Utls=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip#KZ-GB1
+
