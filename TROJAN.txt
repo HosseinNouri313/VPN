@@ -1,2 +1,2 @@
-trojan://50f3bafa-0fa7-4f90-9075-09f5c402115f@fr1.microsoft-orgwly.vip:0?‌type=tcp&security=tls&fp=randomized&fingerprint=randomized&Utls=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1#لطفا-حساب-خود-را-تصفیه-کنید
-trojan://50f3bafa-0fa7-4f90-9075-09f5c402115f@fr1.microsoft-orgwly.vip:0?‌type=tcp&security=tls&fp=randomized&fingerprint=randomized&Utls=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1#LOTFAN-HESAB-KHOD-RA-TASFIE-KONID
+trojan://50f3bafa-0fa7-4f90-9075-09f5c402115f@fr1.microsoft-orgwly.vip:1000?‌type=tcp&security=tls&fp=randomized&fingerprint=randomized&Utls=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1#لطفا-حساب-خود-را-تصفیه-کنید
+trojan://50f3bafa-0fa7-4f90-9075-09f5c402115f@fr1.microsoft-orgwly.vip:1000?‌type=tcp&security=tls&fp=randomized&fingerprint=randomized&Utls=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1#LOTFAN-HESAB-KHOD-RA-TASFIE-KONID
