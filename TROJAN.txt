@@ -1,3 +1,2 @@
-trojan://8894db8f-723e-44cc-91ae-61625e79c45e@gb1.microsoft-orgwly.vip:10043?type=tcp&security=tls&headerType=none&fp=randomized&fingerprint=randomized&Utls=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#GB1
-trojan://8894db8f-723e-44cc-91ae-61625e79c45e@in1.microsoft-orgwly.vip:10055?type=tcp&security=tls&headerType=none&fp=randomized&fingerprint=randomized&Utls=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#IN1
-trojan://8894db8f-723e-44cc-91ae-61625e79c45e@us3.microsoft-orgwly.vip:10083?type=tcp&security=tls&headerType=none&fp=randomized&fingerprint=randomized&Utls=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#US
+trojan://8894db8f-723e-44cc-91ae-61625e79c45e@gb1.microsoft-orgwly.vip:10043?type=tcp&security=tls&headerType=none&fp=randomized&fingerprint=randomized&Utls=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#اختلال-ایجاد-شده-لطفا-صبور-باشید
+
