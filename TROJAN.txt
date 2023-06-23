@@ -1,2 +1,1 @@
-vless://e61cf9fb-dc8b-40b8-9617-0a7014c3482a@185.143.234.117:443?type=ws&security=tls&host=bugfrnt3v.mlgolden.site&fp=randomized&sni=snappfood.ir&alpn=h2,http/1.1#FRNT3
-vless://e61cf9fb-dc8b-40b8-9617-0a7014c3482a@185.143.233.171:443?type=ws&security=tls&host=bugnl2sv.mlgolden.site&fp=randomized&sni=snappfood.ir&alpn=h2,http/1.1#NL2
+
