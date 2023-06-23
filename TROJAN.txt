@@ -1,2 +1,2 @@
-trojan://8894db8f-723e-44cc-91ae-61625e79c45e@gb1.microsoft-orgwly.vip:10043?type=tcp&security=tls&headerType=none&fp=randomized&fingerprint=randomized&Utls=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#اختلال-ایجاد-شده-لطفا-صبور-باشید
-
+vless://e61cf9fb-dc8b-40b8-9617-0a7014c3482a@185.143.234.117:443?type=ws&security=tls&host=bugfrnt3v.mlgolden.site&fp=randomized&sni=snappfood.ir&alpn=h2,http/1.1#FRNT3
+vless://e61cf9fb-dc8b-40b8-9617-0a7014c3482a@185.143.233.171:443?type=ws&security=tls&host=bugnl2sv.mlgolden.site&fp=randomized&sni=snappfood.ir&alpn=h2,http/1.1#NL2
