@@ -1,0 +1,1 @@
+trojan://c553b2ac-09b4-44c8-8de9-e128a922c11d@gb2.microsoft-orgwly.vip:10000?type=tcp&security=tls&fp=randomized#تماس-بگیرید
