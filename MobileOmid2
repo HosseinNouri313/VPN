@@ -1,2 +1,0 @@
-vless://5cd22529-b92a-40de-86c2-591d195a2d55@mtn.MsV2ray.space:2083?type=grpc&security=tls&mode=gun&serviceName=@MsV2ray&sni=tm.MsV2ray.cfd&alpn=h2,http/1.1#1
-vless://f985f83f-e3a4-4c82-8f71-2070664b8671@MCI-VpnCustomize.ddns.net:8443?type=grpc&security=tls&mode=gun&serviceName=@VPNCUSTOMIZE&sni=ch.TrV2ray.cfd&alpn=h2,http/1.1#2
