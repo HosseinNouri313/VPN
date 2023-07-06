@@ -1,3 +1,2 @@
-trojan://c553b2ac-09b4-44c8-8de9-e128a922c11d@gb2.microsoft-orgwly.vip:10063?type=tcp&security=tls&headerType=none&fp=randomized&fingerprint=randomized&Utls=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#GB2
-trojan://c553b2ac-09b4-44c8-8de9-e128a922c11d@in1.microsoft-orgwly.vip:10068?type=tcp&security=tls&headerType=none&fp=randomized&fingerprint=randomized&Utls=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#IN1
-trojan://c553b2ac-09b4-44c8-8de9-e128a922c11d@us3.microsoft-orgwly.vip:10096?type=tcp&security=tls&headerType=none&fp=randomized&fingerprint=randomized&Utls=randomized&uTLS=randomized&allowInsecure=true&allowInsecure=1&sni=tls.microsoft-orgwly.vip&alpn=h2,http/1.1#US3
+vless://5cd22529-b92a-40de-86c2-591d195a2d55@mtn.MsV2ray.space:2083?type=grpc&security=tls&mode=gun&serviceName=@MsV2ray&sni=tm.MsV2ray.cfd&alpn=h2,http/1.1#1
+vless://f985f83f-e3a4-4c82-8f71-2070664b8671@MCI-VpnCustomize.ddns.net:8443?type=grpc&security=tls&mode=gun&serviceName=@VPNCUSTOMIZE&sni=ch.TrV2ray.cfd&alpn=h2,http/1.1#2
