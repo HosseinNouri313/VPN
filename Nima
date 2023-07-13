@@ -1,3 +1,4 @@
-trojan://c553b2ac-09b4-44c8-8de9-e128a922c11d@gb1.microsoft-orgwly.vip:10058?peer=tls.microsoft-orgwly.vip&tfo=1#GB1
-trojan://c553b2ac-09b4-44c8-8de9-e128a922c11d@gb3.microsoft-orgwly.vip:10043?peer=tls.microsoft-orgwly.vip&tfo=1#GB3
-trojan://c553b2ac-09b4-44c8-8de9-e128a922c11d@in1.microsoft-orgwly.vip:10075?peer=tls.microsoft-orgwly.vip&tfo=1#IN1
+vless://81380ba5-89b3-4aa0-99e5-a199f6010d1a@95.179.254.20:8443?type=grpc&security=tls&mode=gun&sni=ch.donaldvpn.sbs#DE
+vless://3c22a1a5-e519-45d2-84b7-7025979f4a72@104.31.16.65:2083?type=grpc&security=tls&mode=gun&serviceName=%40MoV2ray&sni=MoV2ray.Mamaliam.site#DE2
+vless://3c22a1a5-e519-45d2-84b7-7025979f4a72@104.31.16.65:2083?type=grpc&security=tls&mode=gun&serviceName=%40MoV2ray&sni=MoV2ray.Mamaliam.site#DE3
+vless://4cd993df-b913-4e7d-ad56-b7529be4fef3@95.179.243.13:443?type=grpc&security=tls&mode=gun&serviceName=%40MoV2ray&sni=MoV2ray.Mamaliam.site#DE4
