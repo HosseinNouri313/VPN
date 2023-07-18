@@ -1,3 +1,3 @@
-vless://c10a148a-9289-4778-f539-bc85cb18dcd0@92.63.175.213:26480?type=tcp&security=none&headerType=http&host=picofile.com#1
-vless://c8fd9814-328b-4f53-8797-31cef383bed3@49.13.29.45:44943?type=grpc&security=reality&mode=gun&serviceName=%40CloudCityy&fp=firefox&sni=ftp.debian.org&pbk=MXCoRXIB8dUUwN0_gAS7tD2_Xzq5jNJKdvLU1U6DHQk&sid=00cc2cfe&spx=%2F%40CloudCityy%2F#2
-vless://cc3b6fe7-91bd-4b25-9ebc-398fc302bdfc@telegram.melov2ray.shop:2095?type=tcp&security=reality&headerType=http&host=speedtest.net&fp=chrome&sni=ftp.debian.org&pbk=XGElhkrWfmL2GmqEJHb1ATnWQalTXMP7rjGLB_1lX38&sid=cb3800c8&spx=%2F#3
+vless://c8fd9814-328b-4f53-8797-31cef383bed3@49.13.29.45:44943?type=grpc&security=reality&mode=gun&serviceName=%40CloudCityy&fp=firefox&sni=ftp.debian.org&pbk=MXCoRXIB8dUUwN0_gAS7tD2_Xzq5jNJKdvLU1U6DHQk&sid=00cc2cfe&spx=%2F%40CloudCityy%2F#1
+vless://fc03933c-9b0b-4eab-9c5f-626ea67c5bff@lars.ns.cloudflare.com:8443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=b4.iraniancp.click&sni=iraniancp.click#2
+vless://7585aa33-7465-4d68-9681-82670d3088dc@209.38.202.2:26874?type=tcp&security=reality&fp=chrome&sni=www.speedtest.net&pbk=zhbrYs0VPVKMI729swpv9RDNUm5fQksvk6O02468MUg&sid=6e8eb850&spx=%2F#3
