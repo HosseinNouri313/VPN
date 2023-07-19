@@ -1,3 +1,3 @@
-vless://503391c6-e2e2-41fc-ae72-2080694ad109@bughost.mainssh.com:443?type=grpc&security=tls&mode=gun&serviceName=vlessgrpc&sni=gelgrpc.mainssh.xyz#DE
-vless://3a28e41f-04ca-4e30-b93c-0e75db5c09a9@bughost.mainssh.com:443?type=grpc&security=tls&mode=gun&serviceName=vlessgrpc&sni=frlgrpc.mainssh.xyz#FR
-vless://ed6acc37-f5aa-4f03-933d-a8e38586d83e@bughost.mainssh.com:443?type=grpc&security=tls&mode=gun&serviceName=vlessgrpc&sni=uklgrpc.mainssh.xyz#GB
+vless://503391c6-e2e2-41fc-ae72-2080694ad109@bughost.mainssh.com:443?type=grpc&security=tls&mode=gun&serviceName=vlessgrpc&sni=gelgrpc.mainssh.xyz&allowInsecure=1#DE
+vless://3a28e41f-04ca-4e30-b93c-0e75db5c09a9@bughost.mainssh.com:443?type=grpc&security=tls&mode=gun&serviceName=vlessgrpc&sni=frlgrpc.mainssh.xyz&allowInsecure=1#FR
+vless://ed6acc37-f5aa-4f03-933d-a8e38586d83e@bughost.mainssh.com:443?type=grpc&security=tls&mode=gun&serviceName=vlessgrpc&sni=uklgrpc.mainssh.xyz&allowInsecure=1#GB
