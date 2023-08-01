@@ -1,2 +1,4 @@
-vless://fa074ee6-427b-42af-a3f9-7635b0323d75@bnejwwfydxlqs0j.dedicatedlink.co:20480?type=tcp&security=none#20480
-
+vless://Source-ipV2Ray@128.140.88.31:443?type=grpc&security=reality&mode=gun&serviceName=%40ipV2Ray&fp=firefox&sni=check-host.net&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w#DE1
+vless://93508fde-7e7d-4e5d-8dcc-be9b891ae2ed@join.mdvpnsec.cfd:2096?type=grpc&security=reality&mode=gun&serviceName=Telegram%3A%40MdVpnSec&fp=firefox&sni=www.speedtest.net&pbk=dYkulq2ZrmlYRyJybTDEHAYWKcy1WZPsYN5K9AUIcXk&sid=ac8fe1af&spx=%2FDE2
+vless://93508fde-7e7d-4e5d-8dcc-be9b891ae2ed@join.mdvpnsec.cfd:2096?type=grpc&security=reality&mode=gun&serviceName=Telegram%3A%40MdVpnSec&fp=firefox&sni=www.speedtest.net&pbk=dYkulq2ZrmlYRyJybTDEHAYWKcy1WZPsYN5K9AUIcXk&sid=ac8fe1af&spx=%2F#DE3
+vless://5091b9e8-f4fc-4dff-952e-6841d5d3b531@91.107.189.98:8443?type=tcp&security=reality&fp=chrome&sni=discordapp.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#DE4
